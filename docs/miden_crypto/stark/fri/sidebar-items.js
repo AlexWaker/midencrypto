@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["DeepError","FriError","PcsError","PcsParamsError"],"mod":["deep","params","proof","round_proof","verifier"],"struct":["DeepTranscript","FriRoundTranscript","FriTranscript","PcsParams","PcsTranscript"],"type":["PcsOpenedValues"]};

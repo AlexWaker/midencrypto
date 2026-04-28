@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["NaiveDft","Radix2DitParallel"],"trait":["TwoAdicSubgroupDft"]};
